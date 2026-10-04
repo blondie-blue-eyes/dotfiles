@@ -1,0 +1,5 @@
+[core]
+	sshCommand = C:/Windows/System32/OpenSSH/ssh.exe
+[user]
+	email = blondie.blue.eyes@proton.me
+	name = blondie-blue-eyes
